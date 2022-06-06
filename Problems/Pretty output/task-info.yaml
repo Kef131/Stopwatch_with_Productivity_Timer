@@ -1,0 +1,11 @@
+type: code
+files:
+- name: src/main/kotlin/main.kt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/9054#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 17 Oct 2021 19:05:32 UTC
+record: -1

@@ -1,0 +1,11 @@
+type: code
+files:
+- name: src/main/kotlin/Main.kt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/14913#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 24 Sep 2021 12:49:17 UTC
+record: -1

@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: Generic functions depend on the types they operate on.
+- text: Generic functions are functions that are members of generic classes.
+- text: A generic function may or may not be a member of some class.
+- text: We need to declare a type parameter inside angle brackets as a generic function's
+    argument type.
+- text: Generic functions can not have multiple (two or more) type parameters.
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/main/Main.kt
+  visible: true
+  text: |+
+    // You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16054#comment
+status: Solved
+record: -1

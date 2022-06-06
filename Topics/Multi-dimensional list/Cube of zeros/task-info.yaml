@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/main/kotlin/Main.kt
+  visible: true
+  text: "fun main() {\n    //write your code here   \n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15135#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 25 Oct 2021 13:33:37 UTC
+record: -1

@@ -1,0 +1,23 @@
+# Project exclude paths
+/.gradle/
+/build/
+/Problems/Braking distance/build/
+/Problems/Check a code/build/
+/Problems/Guard On The Gate/build/
+/Problems/Guard On The Gate/out/
+/Problems/Initializing a mutable list of integers/build/
+/Problems/Initializing a mutable list of integers/out/
+/Problems/Number in a set/build/
+/Problems/Pretty output/build/
+/Problems/Triples/build/
+/Problems/Triples/out/
+/Problems/Two numbers in a row/build/
+/Problems/Two numbers in a row/out/
+/Stopwatch with Productivity Timer/task/build/
+/Stopwatch with Productivity Timer/task/build/intermediates/javac/debug/classes/
+/Topics/Debugging techniques/Log events/build/
+/Topics/Generic functions/Extracting info/build/
+/Topics/Generic functions/Revert the collection/build/
+/Topics/Introduction to generic programming/Code to move/build/
+/Topics/Introduction to generic programming/Get and set/build/
+/Topics/Introduction to generic programming/Stack Kotlin Flow/build/
